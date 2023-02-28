@@ -1,6 +1,6 @@
 # WebReactApp
 Routing, auth, Material UI, React i18Next for change language
-Live demo [_here_](https://yuliyaadamiv.github.io/registration). 
+ 
 
 ## Available Scripts
 
