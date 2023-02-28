@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WebReactApp/static/css/main.cefa591e.css",
+    "main.js": "/WebReactApp/static/js/main.64508b88.js",
+    "static/js/787.21fc0ef0.chunk.js": "/WebReactApp/static/js/787.21fc0ef0.chunk.js",
+    "static/media/bg-6.png": "/WebReactApp/static/media/bg-6.cdb7ad15caabaedaeff9.png",
+    "static/media/bg-3.png": "/WebReactApp/static/media/bg-3.5b1e235476db61c2a6fb.png",
+    "static/media/bg-4.png": "/WebReactApp/static/media/bg-4.d83ed6322e927cf8bcde.png",
+    "static/media/bg-2.png": "/WebReactApp/static/media/bg-2.d04b998e539a065614d6.png",
+    "static/media/bg-5.png": "/WebReactApp/static/media/bg-5.a8a2add93866f98d6912.png",
+    "static/media/roboto-all-400-normal.woff": "/WebReactApp/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/WebReactApp/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/WebReactApp/static/media/roboto-cyrillic-ext-400-normal.493afe7ae8ecfe268800.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/WebReactApp/static/media/roboto-latin-ext-400-normal.c3dcdbd5bb4d4af80817.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/WebReactApp/static/media/roboto-cyrillic-400-normal.5e493812deabd1d01e60.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/WebReactApp/static/media/roboto-greek-400-normal.1cbfc636c911faa4d0ca.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/WebReactApp/static/media/roboto-vietnamese-400-normal.c0bec65d01f776c00c91.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/WebReactApp/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
+    "index.html": "/WebReactApp/index.html",
+    "static/media/getFetch.cjs": "/WebReactApp/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.cefa591e.css.map": "/WebReactApp/static/css/main.cefa591e.css.map",
+    "main.64508b88.js.map": "/WebReactApp/static/js/main.64508b88.js.map",
+    "787.21fc0ef0.chunk.js.map": "/WebReactApp/static/js/787.21fc0ef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefa591e.css",
+    "static/js/main.64508b88.js"
+  ]
+}
